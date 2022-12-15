@@ -12,5 +12,13 @@ namespace GitPractice
     {
       Console.WriteLine("pavan");
     }
+    public static void method2()
+    {
+      Console.WriteLine("pavan");
+    }
+    public static void method3()
+    {
+      Console.WriteLine("pavan");
+    }
   }
 }
